@@ -1,0 +1,5 @@
+do_token        = "dop_v1_222808a6f414363416b6ba905a1d4924ee798bf1573dac66e9536f35ba9fe25f"
+ssh_fingerprint = "f9:a2:fc:11:57:65:9c:35:e9:2a:8d:08:fc:c2:6b:2e"
+github_token    = "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"
+github_repo     = "flask-app"
+github_user     = "franciszek-szeptycki-wise-people"
